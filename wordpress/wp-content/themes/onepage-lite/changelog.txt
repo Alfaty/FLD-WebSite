@@ -1,0 +1,30 @@
+v1.0.3 (Nov 28, 2017)
+-----------------------------
+- Fixed jQuery dependency error
+
+Files Updated:
+- functions.php
+- style.css
+
+v1.0.2 (Oct 24, 2017)
+-----------------------------
+- Added Shortcode support in text widget
+
+Files Updated:
+- style.css
+- functions.php
+
+
+v1.0.1 (Sep 19, 2017)
+-----------------------------
+- Fixed PHP code appearing in the single post
+
+Files Updated:
+- style.css
+- functions.php
+- single.php
+
+
+v1.0 (Sep 18, 2017)
+-----------------------------
+- Theme released
